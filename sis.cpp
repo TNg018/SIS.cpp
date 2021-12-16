@@ -1,3 +1,7 @@
+/*
+* Student Information System 
+*/
+
 // MENU OPTIONS                                                                                                                                                   
 const int NEW_COURSE = 1;
 const int NEW_STUDENT = 2;
